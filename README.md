@@ -6,4 +6,4 @@ information from data that are hidden and democratize the understanding of the e
  The US domestic airline flights performance dataset contains 27000 rows and 110 columns which include information such as year, flightdate month, reporting airline, origin state, Des state  
  
 ## Analysis
-The dashboard is created using dash, jupyter_dash with ploty. The analysis can be found [here]
+The dashboard is created using dash, jupyter_dash with ploty. The analysis can be found [here](https://github.com/Darexboy/Dashboard-with-Python-/blob/main/Python%20Dashboard.ipynb)
